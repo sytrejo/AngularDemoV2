@@ -20,6 +20,7 @@
     "@angular/platform-server": "^16.1.7",
     "@angular/router": "^16.1.0",
     "@scullyio/init": "^2.1.21",
+    "@scullyio/scully-plugin-puppeteer": "^2.1.41",
     "bootstrap": "^5.3.1",
     "rxjs": "~7.8.0",
     "tslib": "^2.3.0",

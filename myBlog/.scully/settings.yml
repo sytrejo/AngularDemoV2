@@ -1,0 +1,11 @@
+identifier: l4k6r1h5qe92efl1
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: myBlog
+homeFolder: /Users/silviatrejo/Dev/Angular/AngularDemoV2/myBlog
+distFolder: dist/my-blog
+outDir: /Users/silviatrejo/Dev/Angular/AngularDemoV2/myBlog/dist/static
+handle404: ''
+allowErrorCollect: false
